@@ -5,6 +5,7 @@ body {
   max-width: 50%;
   margin: auto;
   color: #333;
+  margin-bottom: 50px;
 }
 
 .header {
@@ -39,4 +40,33 @@ body {
 
 .hrline {
   border: 0.5px solid coral;
+}
+
+.table-heading {
+  min-width: 250px;
+  display: block;
+}
+
+.table-props {
+  font-size: 20px;
+  color: coral;
+}
+
+.marginfix {
+  margin-top: 20px;
+}
+
+.jobheading {
+  font-size: 18px;
+  line-height: 25px;
+}
+
+.jobduration {
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 25px;
+}
+
+.jobdescription {
+  margin: 10px 0px 10px 0px;
 }
